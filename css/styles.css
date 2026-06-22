@@ -41,6 +41,8 @@ li {
    padding: 20px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-size: larger;
+   border-style: solid;
+   border-color:black;
 }
 
 .center-image {
