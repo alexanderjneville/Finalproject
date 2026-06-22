@@ -35,6 +35,9 @@ li {
    
 }
 
-h2 {
+.grid {
    text-align: center;
+   background-color: bisque;
+   padding: 20px;
+   
 }
