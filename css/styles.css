@@ -1,5 +1,9 @@
  body {
     background-color: blanchedalmond;
+    margin:auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
  }
 
  head {
@@ -51,8 +55,3 @@ li {
    margin-right: auto;
 }
 
-.page-container {
-   max-width: 1200px;
-   width: 90%;
-   margin: auto;
-}
