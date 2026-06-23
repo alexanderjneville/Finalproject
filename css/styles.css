@@ -1,19 +1,23 @@
  body {
     background-color: blanchedalmond;
     margin:auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    
     
  }
 
  head {
-
+   margin:auto;
  }
 
  nav {
-
+   margin:auto;
  }
-
+.navbar {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   display: flex;
+}
  header {
 
  }
