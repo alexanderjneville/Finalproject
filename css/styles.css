@@ -50,3 +50,9 @@ li {
    margin-left: auto;
    margin-right: auto;
 }
+
+.page-container {
+   max-width: 1200px;
+   width: 90%;
+   margin: auto;
+}
