@@ -68,3 +68,38 @@ li {
    margin-right: auto;
 }
 
+/* Video Styling */
+video {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+    border-radius: 30px;
+}
+
+.video-title {
+    text-align: center;
+}
+
+/* Desktop：隐藏按钮 */
+#menu-button {
+    display: none;
+}
+
+/* Mobile：显示按钮 */
+@media screen and (max-width: 767px) {
+
+    #menu-button {
+        display: block;
+    }
+
+    nav ul {
+        display: none;
+    }
+
+    nav.show ul {
+        display: block;
+    }
+
+}
+
