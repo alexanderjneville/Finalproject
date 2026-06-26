@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Animal Rescue Foundation</title>
+    <title>About | Animal Rescue Foundation</title>
     <meta charset="utf-8">
+    <meta name="description" content="Learn about Animal Rescue Foundation, our mission, values, and animal rescue work.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="stylesheet" href="css/styles.css">
     <script src="scripts/script.js" defer></script>
 </head>
+
 <body>
 
 <header>
-    <h1>About</h1>
+    <h1>Animal Rescue Foundation</h1>
+    <button id="menu-button">&#9776;</button>
 </header>
 
-<nav>
+<nav id="nav-links">
     <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
@@ -27,26 +31,57 @@
 
 <main>
 
-<h2>Welcome to Animal Rescue Foundation</h2>
+    <section>
+        <h2>About Us</h2>
+        <p>
+            Animal Rescue Foundation is a non-profit organization dedicated to rescuing
+            homeless, abandoned, and injured animals. We provide food, shelter, medical care,
+            and adoption support for animals in need.
+        </p>
 
-<p>
-We rescue abandoned animals and help them find loving homes.
-    We are the Nation's Largest no-kill animal sanctuary. 
-    We house up to 1,600 animals at one times on 3,700 acres of land in Angel Canyon. 
-    Some of our animals include dogs, cats, birds, bunnies, horses, and even pigs.
-</p>
-<p>
-Our rescue is located at 5001 Angel Canyon Road, Kanab, UT 84741
-    
-</p>   
-    
+        <img src="images/cat.webp"alt="Three rescued kittens being cared for by an Animal Rescue Foundation volunteer" class="page-image">
+    </section>
+ 
+    <section>
+        <h2>Our Mission</h2>
+        <p>
+            Our mission is to give every animal a second chance by connecting rescued pets
+            with safe, caring, and loving families.
+        </p>
+    </section>
 
-<img src="images/dog.jpg" alt="Dog" width="400">
-<!--One page should incorporate Javascript for interactivity for hiding/showing content-->
+    <section>
+        <h2>Our Core Values</h2>
+        <ul>
+            <li>Compassion for all animals</li>
+            <li>Responsible pet ownership</li>
+            <li>Community service</li>
+            <li>Safe and loving adoptions</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 class="video-title">Animal Rescue Story</h2>
+
+        <video controls class="media">
+            <source src="media/rescue-video.mp4" type="video/mp4">
+            <source src="media/rescue-video.mov" type="video/quicktime">
+            Your browser does not support the video element.
+        </video>
+
+        <p>
+            Watch a rescue story and learn how rescued animals can find loving homes.
+        </p>
+    </section>
+
 </main>
 
 <footer>
     <p>&copy; 2026 Animal Rescue Foundation</p>
+    <p>
+        <a href="https://www.facebook.com/bestfriendsanimalsociety" target="_blank">Facebook</a> |
+        <a href="https://www.instagram.com/bestfriendsanimalsociety" target="_blank">Instagram</a>
+    </p>
 </footer>
 
 </body>
