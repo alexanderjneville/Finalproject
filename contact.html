@@ -47,7 +47,14 @@
         <img src="images/instagram.icon.png" alt="Instagram" width="75" height="75">
         Best Friends Animal Society on Instagram
     </a> 
-    
+    <p>
+        If you'd like to send us a message directly through our website, use the textbox below. Please leave your email and phone number within the message so we can answer any questions you may have!
+    </p>
+    <form action="/submit-message" method="POST">
+        <label for="user message">Messages/Questions:</label>
+        <textarea id="user-message" name="message" rows="5" placeholder:"type your message here..." required</textarea>
+        <button type="submit">Send Message</button>
+    </form>
 <p>
 We rescue abandoned animals and help them find loving homes.
 </p>
