@@ -61,13 +61,13 @@ table {
 
 .grid {
    text-align: center;
-   background-color: #ec720b;
+   background-color: #3d3d3e;
    padding: 20px;
-   
-   font-size: larger;
+      font-size: larger;
    border-style: solid;
    border-color:black;
    align-content: center;
+   color:white;
 }
 
 ul {
