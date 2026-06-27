@@ -24,7 +24,7 @@
 
  }
 
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -33,14 +33,14 @@ ul {
   justify-content: center;
 }
 
-ul li a {
+nav ul li a {
   display: block;
   color: white;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-ul li a:hover {
+nav ul li a:hover {
   background-color: #BD5B09;
 }
 
@@ -68,7 +68,11 @@ table {
    align-content: center;
 }
 
+.value {
 
+
+
+}
 
 /* Video Styling */
 video {
