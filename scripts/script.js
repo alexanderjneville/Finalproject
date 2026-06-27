@@ -7,4 +7,6 @@ function closeNav() {
   document.getElementById("myNav").style.width = "0%";
 }
 
-$('.carousel').carousel()
+$('.carousel').carousel({
+  interval: 2000
+})
