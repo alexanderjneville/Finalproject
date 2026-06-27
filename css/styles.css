@@ -71,11 +71,9 @@ table {
 .value {
 
     list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #3d3d3e;
-  display: flex;
-  justify-content: center;
+    margin: 0;
+    padding: 0;
+    background-color: #3d3d3e;
     color:white;
 
 
