@@ -89,6 +89,7 @@
 
 .spanMenu a:hover, .spanMenu a:focus {
 
+    background-color: #3d3d3e;
     color: #f1f1f1;
 
 }
