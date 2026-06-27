@@ -53,9 +53,11 @@ align-content: center;
 
 table {
    border: 2px solid #ec720b;
-   border-collapse: collapse;
+   border-style: double;
    margin-left: auto;
    margin-right: auto;
+   color:white;
+
 }
 
 
@@ -67,8 +69,8 @@ table {
     border-style: solid;
     border-color:black;
     align-content: center;
-    color:white;
-    border-style:double;
+    
+    
 }
 
 ul {
