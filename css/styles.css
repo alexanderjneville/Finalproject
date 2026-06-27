@@ -73,6 +73,13 @@
   color: white;
 }
  
+.icon {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
 span {
 
     font-size: larger;
