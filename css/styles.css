@@ -87,14 +87,14 @@
     font-weight: 500;
 }
 
-.spanMenu a {
+span a {
 
     background-color: white;
     color: black;
 
 }
 
-.spanMenu a:hover, .overlay a:focus{
+span a:hover, .overlay a:focus{
 
     background-color: black;
     color: white;
