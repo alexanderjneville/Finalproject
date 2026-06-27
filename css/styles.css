@@ -87,7 +87,7 @@
     font-weight: 300;
 }
 
-.spanMenu a:hover, .spanMenu a:focus {
+.spanMenu a:hover {
 
     background-color: #3d3d3e;
     color: #f1f1f1;
