@@ -74,6 +74,23 @@ li {
    border-color:black;
 }
 
+ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+ul li {
+  float: ce;
+  text-align: center;
+}
+
 
 /* Video Styling */
 video {
