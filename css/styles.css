@@ -1,3 +1,7 @@
+ html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
  
  head {
    
@@ -48,6 +52,7 @@ nav ul li a:hover {
 
  main {
 align-content: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
 
 table {
