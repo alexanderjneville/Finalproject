@@ -30,7 +30,7 @@
     margin: 0;
     padding: 0;
     background-color: bisque;
-    
+    float: left;
 
  }
 
@@ -39,7 +39,7 @@ nav li {
     color: white;
     padding: 14px 16px;
     text-decoration: none;
-    float: left;
+    
 
 }
 
