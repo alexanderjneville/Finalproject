@@ -43,7 +43,14 @@ nav ul {
 
 }
 
+nav li {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
 
+
+}
  main {
 align-content: center;
  }
