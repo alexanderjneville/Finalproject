@@ -24,7 +24,9 @@
     
  }
 
-
+link{
+    align-items: center;
+}
 .topnav {
   overflow: hidden;
   background-color: #333;
