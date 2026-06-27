@@ -43,6 +43,12 @@ nav ul {
 
 }
 
+
+nav ul li {
+   font-size: 12pt;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: 50;
+   
  main {
 align-content: center;
  }
@@ -57,11 +63,7 @@ table {
    margin-right: auto;
 }
 
-li {
-   font-size: 12pt;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-weight: 50;
-   
+
    
 }
 
