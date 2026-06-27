@@ -75,7 +75,7 @@ table {
 }
 
 ul {
-    
+    list-style-type: none;
     background-color: #3d3d3e;
     
     
@@ -83,7 +83,7 @@ ul {
 
 ul li {
     color: white;
-    list-style-type: none;
+    
    
 }
 
