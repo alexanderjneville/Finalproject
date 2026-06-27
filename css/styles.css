@@ -123,6 +123,7 @@ table {
     border-color:black;
     align-content: center;
     color:white;
+    grid-template-columns: auto auto auto;
     
 }
 
