@@ -60,14 +60,14 @@ table {
 
 
 .grid {
-   text-align: center;
-   background-color: #3d3d3e;
-   padding: 20px;
-      font-size: larger;
-   border-style: solid;
-   border-color:black;
-   align-content: center;
-   color:white;
+    text-align: center;
+    background-color: #3d3d3e;
+    padding: 20px;
+    font-size: larger;
+    border-style: solid;
+    border-color:black;
+    align-content: center;
+    color:white;
 }
 
 ul {
