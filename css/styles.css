@@ -31,7 +31,7 @@
     padding: 0;
     background-color: bisque;
     display: flex;
-
+    justify-content: center;
  }
 
 nav li {
