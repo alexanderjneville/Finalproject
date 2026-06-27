@@ -24,9 +24,14 @@
     
  }
 
-link{
-    align-items: center;
+.active {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
 }
+
+
 .topnav {
   overflow: hidden;
   background-color: #333;
