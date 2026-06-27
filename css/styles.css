@@ -8,11 +8,13 @@
 
  head {
    margin:auto;
+   text-align: center;
  }
 
  title {
    margin-left: auto;
    margin-right: auto;
+   text-align: center;
  }
 
  ul {
@@ -20,11 +22,13 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
+  text-align: center;
   
 }
 
 ul li {
   float: left;
+  text-align: center;
 }
 
 ul li a {
