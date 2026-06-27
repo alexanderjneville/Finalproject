@@ -17,17 +17,24 @@
     <h1>Adopt</h1>
 </header>
 
-<nav class="navbar">
-    <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="adopt.html">Adopt</a></li>
-        <li><a href="volunteer.html">Volunteer</a></li>
-        <li><a href="events.html">Events</a></li>
-        <li><a href="contact.html">Contact</a></li>
-    </ul>
-</nav>
+<div id="myNav" class="overlay">
 
+  <!-- Button to close the overlay navigation -->
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+  <!-- Overlay content -->
+  <div class="overlay-content">
+    <a href="home.html">Home</a>
+    <a href="adopt.html">Adopt</a>
+    <a href="events.html">Events</a>
+    <a href="contact.html">Contact</a>
+    <a href="about.html">about</a>
+  </div>
+
+</div>
+
+
+<span onclick="openNav()" class="spanMenu">Menu</span>
 <main>
 
 <h2>Welcome to Best Friends Animal Sanctuary</h2>
