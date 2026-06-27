@@ -94,7 +94,7 @@
 
 }
 
-.spanMenu a:hover {
+.spanMenu a:hover, .overlay a:focus{
 
     background-color: black;
     color: white;
