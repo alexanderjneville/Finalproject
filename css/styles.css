@@ -87,18 +87,7 @@ span {
     font-weight: 500;
 }
 
-span a {
 
-    background-color: white;
-    color: black;
-
-}
-
-span a:hover, .overlay a:focus{
-
-    background-color: black;
-    color: white;
-}
 
 
  main {
