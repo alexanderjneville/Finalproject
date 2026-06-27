@@ -6,3 +6,9 @@ function myFunction() {
     x.style.display = "block";
   }
 }
+
+
+
+$('.carousel').carousel({
+  interval: 2000
+})
