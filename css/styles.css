@@ -68,6 +68,7 @@ table {
     border-color:black;
     align-content: center;
     color:white;
+    border-style:double;
 }
 
 ul {
