@@ -87,11 +87,17 @@
     font-weight: 300;
 }
 
+.spanMenu a {
+
+    background-color: white;
+    color: black;
+
+}
+
 .spanMenu a:hover {
 
-    background-color: #3d3d3e;
-    color: #f1f1f1;
-
+    background-color: black;
+    color: white;
 }
 
 
