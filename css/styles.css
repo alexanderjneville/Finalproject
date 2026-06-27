@@ -131,3 +131,8 @@ video {
     margin-right: auto;
 }
 
+.position {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
