@@ -77,7 +77,7 @@ table {
     color:white;
 }
 
-.value ul {
+.value li {
 
     list-style-type: none;
   margin: 0;
