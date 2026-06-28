@@ -123,6 +123,8 @@ table {
 
 .grid-item{
   background-color: #3d3d3e;
+  border-color: black;
+  border-width: 2px;
 
 }
    
