@@ -116,11 +116,13 @@ table {
 
 
 
-.grid{
+.grid-container{
   display: grid;
-  grid-column-end:auto;
-  
- 
+  grid-template-columns: auto; 
+}
+
+.grid-item{
+  background-color: #3d3d3e;
 
 }
    
