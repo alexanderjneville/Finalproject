@@ -123,8 +123,8 @@ table {
     border-color:black;    
     color:white;
   
-    grid-template-columns: auto;
-    grid-template-rows: auto;
+    grid-template-columns: 500px;
+    grid-template-rows: 1000px;
     
 }
 
