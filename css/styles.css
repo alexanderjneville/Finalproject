@@ -122,9 +122,8 @@ table {
     border-style: solid;
     border-color:black;    
     color:white;
-  max-width: 100%;
-    grid-template-columns: 50%;
-    grid-template-rows: 50%;
+  max-width: 70%;
+    
     
 }
 
