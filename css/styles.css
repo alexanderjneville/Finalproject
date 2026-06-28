@@ -118,7 +118,7 @@ table {
 
 .grid{
   display: grid;
-  grid-column: 1;
+  grid-column-end:auto;
   
  
 
