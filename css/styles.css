@@ -123,11 +123,12 @@ table {
   row-gap: 1em;
   border-color: black;
 border-width: 5px;
-text-align: center;
+
 }
 
 .grid-item {
 background-color: #3d3d3e;
+margin:auto
 
 }
 
