@@ -125,8 +125,7 @@ table {
   
     grid-template-columns: auto;
     grid-template-rows: auto;
-    grid-column: auto;
-    grid-row: auto;
+    
 }
 
 .grid div {
