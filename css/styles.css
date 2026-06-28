@@ -122,9 +122,7 @@ table {
     border-style: solid;
     border-color:black;    
     color:white;
-   grid-template-areas: "a a";
-  gap: 10px;
-  grid-auto-columns: 200px;
+  
     
 }
 
