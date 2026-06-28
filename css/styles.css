@@ -118,7 +118,7 @@ table {
 
 .grid{
   display: grid;
-  column-count: auto;
+  grid-auto-rows: auto;
   
   box-sizing: border-box;
 
