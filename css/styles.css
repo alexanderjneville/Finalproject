@@ -124,7 +124,7 @@ table {
     align-content: center;
     color:white;
     grid-template-columns: auto auto auto;
-    grid-auto-
+    grid-auto-rows: auto auto auto;
     
 }
 
