@@ -118,7 +118,7 @@ table {
 
 .grid{
   display: grid;
-  grid-template-columns: auto, auto, auto;
+  column-count: 3 / span 3;
   box-sizing: border-box;
 
 }
