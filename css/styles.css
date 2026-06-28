@@ -117,7 +117,7 @@ table {
 
 
 .container {
-    display: grid;
+    display: grid inline-grid;
     background-color: #3d3d3e;    
     border-style: solid;
     border-color:black;    
