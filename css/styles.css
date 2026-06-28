@@ -118,7 +118,7 @@ table {
 
 .grid{
   display: grid;
-  grid-column: 1, 2, 3;
+  grid-column: 1;
   
   box-sizing: border-box;
 
