@@ -118,7 +118,8 @@ table {
 
 .grid{
   display: grid;
-  column-count: 3;
+  column-count: auto;
+  
   box-sizing: border-box;
 
 }
