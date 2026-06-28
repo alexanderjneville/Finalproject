@@ -134,6 +134,7 @@ table {
     padding: 10px;
     grid-template-columns: auto;
     grid-auto-rows: auto;
+    display: grid;
 }
 ul {
     list-style-type: none;
