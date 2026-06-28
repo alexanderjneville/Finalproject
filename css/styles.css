@@ -128,12 +128,10 @@ table {
 }
 
 .container div {
-  background-color: #3d3d3e;
-  border: 1px solid black;
-  padding: 10px;
-  font-size: 30px;
-  text-align: center;
-   grid-template-columns: auto auto auto;
+    background-color: #3d3d3e;
+    border: 1px solid black;
+    padding: 10px;
+    grid-template-columns: auto auto auto;
     grid-auto-rows: auto auto auto;
 }
 
