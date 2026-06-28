@@ -123,6 +123,10 @@ table {
   row-gap: 1em;
 }
 
+.grid-item {
+background-color: #3d3d3e;
+
+}
 
    
 
