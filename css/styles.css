@@ -121,6 +121,8 @@ table {
   grid-template-columns: repeat(3, 1fr);
   column-gap: 10px;
   row-gap: 1em;
+  border-color: black;
+border-width: 5px;
 }
 
 .grid-item {
