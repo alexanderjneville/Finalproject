@@ -125,8 +125,8 @@ table {
   background-color: #3d3d3e;
   border-color: black;
   border-width: 2px;
-  max-width: fit-content;
-  max-height: fit-content;
+  max-width: auto;
+  max-height: auto;
 
 }
    
