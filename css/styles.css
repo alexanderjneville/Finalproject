@@ -123,8 +123,7 @@ table {
     border-color:black;
     align-content: center;
     color:white;
-    grid-template-columns: auto auto auto;
-    grid-auto-rows: auto auto auto;
+   
     
 }
 
@@ -134,6 +133,8 @@ table {
   padding: 10px;
   font-size: 30px;
   text-align: center;
+   grid-template-columns: auto auto auto;
+    grid-auto-rows: auto auto auto;
 }
 
 ul {
